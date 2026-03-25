@@ -1,0 +1,4 @@
+timestamp,message_id,sender,recipient,subject,action,source_ip,attachment
+2026-02-13T08:11:04Z,<p1132@mailer-payroll-fix.com>,benefits@payroll-updates.co,mreyes@obsidianridge.com,"Updated 2026 Tax Withholding Notice",Delivered,185.225.17.44,payroll_review_feb13.html
+2026-02-13T08:11:05Z,<p1133@mailer-payroll-fix.com>,benefits@payroll-updates.co,dcho@obsidianridge.com,"Updated 2026 Tax Withholding Notice",Delivered,185.225.17.44,payroll_review_feb13.html
+2026-02-13T08:13:19Z,<promo823@newsletter.example>,offers@shopping-hub.biz,allstaff@obsidianridge.com,"Quarterly perks",Delivered,203.0.113.88,

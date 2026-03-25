@@ -1,0 +1,2 @@
+{"timestamp":"2026-02-13T08:42:10.115Z","src_ip":"10.20.4.23","dest_ip":"185.225.17.44","alert":{"signature":"ET MALWARE Suspicious MSHTA outbound fetch"}}
+{"timestamp":"2026-02-13T11:18:01.010Z","src_ip":"10.50.9.10","dest_ip":"103.166.185.200","alert":{"signature":"ET POLICY Large TLS transfer to rare external"}}

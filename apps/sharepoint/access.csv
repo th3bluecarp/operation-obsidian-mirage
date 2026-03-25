@@ -1,0 +1,3 @@
+Timestamp,User,Operation,Site,Path,ClientIP
+2026-02-13T08:20:22Z,mreyes@obsidianridge.com,FileAccessed,/sites/Finance,/Shared Documents/Payroll/2026_Adjustments.xlsx,103.166.185.200
+2026-02-14T02:23:09Z,mreyes@obsidianridge.com,FileDownloaded,/sites/Finance,/Shared Documents/Board/Board_Q1_Draft.pptx,103.166.185.200

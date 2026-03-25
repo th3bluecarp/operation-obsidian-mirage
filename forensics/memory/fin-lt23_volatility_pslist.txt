@@ -1,0 +1,6 @@
+Offset(P)          Name                    PID   PPID   Thds   Hnds Sess Wow64 CreateTime               ExitTime
+0x8f810203f080     chrome.exe              4020  3148   51     1122 1    True  2026-02-13 08:10:58 UTC
+0x8f8101a77080     OneDriveUpdater.exe     4884  4020   4      98   1    True  2026-02-13 08:41:05 UTC
+0x8f8101a99080     mshta.exe               4912  4884   5      74   1    True  2026-02-13 08:42:10 UTC
+0x8f8101ab8080     powershell.exe          4924  4912   9      288  1    True  2026-02-13 08:42:11 UTC
+0x8f8101c47080     rundll32.exe            5228  4924   6      131  1    True  2026-02-13 08:49:55 UTC

@@ -1,0 +1,2 @@
+Timestamp,OperationName,Caller,IPAddress,Status,ResourceGroup,Resource
+2026-02-13T10:16:12Z,Microsoft.Authorization/applications/write,npatel@obsidianridge.com,103.166.185.200,Succeeded,identity-rg,Telemetry Sync Service

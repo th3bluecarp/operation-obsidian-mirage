@@ -1,0 +1,5 @@
+sso-obsidianridge-support.com — created 2026-02-09, registrar privacy enabled, nameserver reuse overlaps multiple M365 phishing kits
+cdn-msauth-storage.com — created 2026-02-12, fronted as software update CDN
+portal-sharevault-sync.com — created 2026-01-28, server certificate CN 'backup-portal'
+okta-mfa-alert.net — seen in community blocklists, no confirmed contact in this case
+ssl-certificate-checkup.com — generic scareware / adware infrastructure

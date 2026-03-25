@@ -1,0 +1,5 @@
+host,file,rule
+FIN-LT23,C:\Users\mreyes\AppData\Local\Temp\OneDriveUpdater.exe,Loader_Generic_JS_Stage
+FIN-LT23,C:\Users\mreyes\AppData\Roaming\mscache\msvcp140.dll,CredentialHarvester_Small
+HR-WS11,C:\ProgramData\silvernote.exe,Ransom_Family_PebbleCrypt
+FILESRV02,C:\ProgramData\silvernote.exe,Ransom_Family_PebbleCrypt

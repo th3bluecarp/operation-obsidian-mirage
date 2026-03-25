@@ -1,0 +1,4 @@
+{"published":"2026-02-13T08:18:13.221Z","eventType":"user.session.start","outcome":{"result":"SUCCESS"},"actor":{"alternateId":"mreyes@obsidianridge.com"},"client":{"ipAddress":"185.225.17.44","userAgent":{"rawUserAgent":"Mozilla/5.0"}},"debugContext":{"debugData":{"requestUri":"/app/UserHome","risk":"LOW"}}}
+{"published":"2026-02-13T09:18:21.002Z","eventType":"user.session.start","outcome":{"result":"SUCCESS"},"actor":{"alternateId":"dcho@obsidianridge.com"},"client":{"ipAddress":"45.144.31.9","userAgent":{"rawUserAgent":"AnyConnect/5"}}}
+{"published":"2026-02-13T10:01:58.010Z","eventType":"system.push.send_factor_verify_push","outcome":{"result":"FAILURE"},"actor":{"alternateId":"npatel@obsidianridge.com"},"client":{"ipAddress":"10.20.1.40"}}
+{"published":"2026-02-13T10:02:11.002Z","eventType":"user.authentication.sso","outcome":{"result":"SUCCESS"},"actor":{"alternateId":"npatel@obsidianridge.com"},"client":{"ipAddress":"10.20.1.40"}}

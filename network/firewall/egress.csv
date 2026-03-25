@@ -1,0 +1,5 @@
+timestamp,src,dst,port,action,rule,note
+2026-02-13T08:42:10Z,10.20.4.23,185.225.17.44,80,ALLOW,web-out,mshta fetch
+2026-02-13T09:18:21Z,45.144.31.9,203.0.113.19,443,ALLOW,vpn,anyconnect
+2026-02-13T11:17:45Z,10.50.9.10,103.166.185.200,443,ALLOW,backup-exception,backup-sync profile
+2026-02-13T12:01:55Z,10.20.6.11,198.51.100.99,443,BLOCK,threat-feed,okta-mfa-alert.net

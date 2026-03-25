@@ -1,0 +1,5 @@
+CreationTime,UserId,Operation,Workload,ClientIP,UserAgent,ObjectId,ResultStatus
+2026-02-13T08:17:31Z,mreyes@obsidianridge.com,MailItemsAccessed,Exchange,185.225.17.44,Mozilla/5.0,,Succeeded
+2026-02-13T08:20:22Z,mreyes@obsidianridge.com,FileAccessed,SharePoint,103.166.185.200,Mozilla/5.0,,Succeeded
+2026-02-13T08:29:31Z,mreyes@obsidianridge.com,Consent to application,AzureActiveDirectory,103.166.185.200,Mozilla/5.0,Finance Collaboration Helper,Failed
+2026-02-14T02:23:09Z,mreyes@obsidianridge.com,FileDownloaded,SharePoint,103.166.185.200,Edge/121,,Succeeded

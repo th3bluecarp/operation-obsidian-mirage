@@ -1,0 +1,7 @@
+date,time,src_ip,user,url,method,status,bytes,user_agent,category
+2026-02-13,08:17:26,10.20.4.23,mreyes,sso-obsidianridge-support.com/session/login,GET,200,18344,Chrome/121,uncategorized
+2026-02-13,08:17:54,10.20.4.23,mreyes,sso-obsidianridge-support.com/mfa/complete,POST,200,1102,Chrome/121,uncategorized
+2026-02-13,08:41:05,10.20.4.23,mreyes,cdn-msauth-storage.com/dl/onedriveupdater.exe,GET,200,284220,Chrome/121,uncategorized
+2026-02-13,10:21:08,10.20.1.40,npatel,login.microsoftonline.com,POST,200,1800,Edge/121,saas
+2026-02-14,02:23:09,10.20.1.40,npatel,sharepoint.com/sites/finance/Shared%20Documents/Board,GET,200,498812,Edge/121,saas
+2026-02-13,12:55:19,10.20.6.11,asoto,ssl-certificate-checkup.com/update,GET,200,1322,IE/11,adware

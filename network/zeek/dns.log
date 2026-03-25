@@ -1,0 +1,4 @@
+#fields ts uid id.orig_h id.resp_h query qclass_name qtype_name rcode_name answers
+1739441846.031 C1 10.20.4.23 10.0.0.2 sso-obsidianridge-support.com C_INTERNET A NOERROR 185.225.17.44
+1739442865.091 C2 10.20.4.23 10.0.0.2 cdn-msauth-storage.com C_INTERNET A NOERROR 185.225.17.44
+1739455021.182 C3 10.50.9.10 10.0.0.2 portal-sharevault-sync.com C_INTERNET A NOERROR 103.166.185.200

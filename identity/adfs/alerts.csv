@@ -1,0 +1,3 @@
+TimeCreated,Computer,RuleName,Message
+2026-02-13T10:05:00Z,SEC-ADMIN01,ADFS-TOKEN-SIGNING-CERT-EXPORT,Token signing cert private key export detected by adfssvc diagnostic extension
+2026-02-13T10:06:09Z,SEC-ADMIN01,ADFS-CONFIG-READ,adfssrv config database queried via PowerShell

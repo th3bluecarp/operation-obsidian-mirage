@@ -1,0 +1,4 @@
+#separator \x09
+#fields ts id.orig_h id.orig_p id.resp_h id.resp_p proto service duration orig_bytes resp_bytes conn_state history
+1739441866.112	10.20.4.23	49712	185.225.17.44	80	tcp	http	12.003	188	28122	SF	ShADadFf
+1739455065.121	10.50.9.10	51517	103.166.185.200	443	tcp	ssl	94.001	62881322	9411	SF	ShADadFf

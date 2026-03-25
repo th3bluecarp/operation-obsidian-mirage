@@ -1,0 +1,3 @@
+Timestamp,User,PublicIP,Result,AssignedIP,Client
+2026-02-13T09:18:21Z,dcho,45.144.31.9,SUCCESS,10.99.18.44,AnyConnect/5.0
+2026-02-13T09:18:42Z,dcho,45.144.31.9,DISCONNECT,,AnyConnect/5.0

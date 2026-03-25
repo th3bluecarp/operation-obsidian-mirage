@@ -1,0 +1,2 @@
+{"kind":"Event","stageTimestamp":"2026-02-13T10:42:18Z","verb":"list","user":{"username":"system:serviceaccount:metrics:release-bot"},"objectRef":{"resource":"secrets","namespace":"prod-app"},"sourceIPs":["103.166.185.200"]}
+{"kind":"Event","stageTimestamp":"2026-02-13T10:43:01Z","verb":"get","user":{"username":"system:serviceaccount:metrics:release-bot"},"objectRef":{"resource":"secret","namespace":"prod-app","name":"db-prod-creds"},"sourceIPs":["103.166.185.200"]}

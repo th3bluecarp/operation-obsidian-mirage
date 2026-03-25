@@ -1,0 +1,2 @@
+Feb 13 11:06:54 db-analytics-01 sshd[6431]: Accepted publickey for svc-backup from 10.50.9.10 port 54220 ssh2
+Feb 13 11:06:59 db-analytics-01 sudo:  svc-backup : TTY=pts/1 ; PWD=/var/analytics ; USER=root ; COMMAND=/usr/local/bin/export_customer_subset.sh

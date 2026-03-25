@@ -1,0 +1,4 @@
+Timestamp,Operation,InitiatedBy,Target,IPAddress,Result
+2026-02-13T10:16:12Z,Add application,npatel@obsidianridge.com,Telemetry Sync Service,103.166.185.200,success
+2026-02-13T10:17:03Z,Add service principal,npatel@obsidianridge.com,Telemetry Sync Service,103.166.185.200,success
+2026-02-13T10:18:48Z,Add delegated permission grant,npatel@obsidianridge.com,Telemetry Sync Service,103.166.185.200,success

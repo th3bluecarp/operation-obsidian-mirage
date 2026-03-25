@@ -1,0 +1,4 @@
+ip,reputation,notes
+185.225.17.44,high-risk,phishing kit infra
+103.166.185.200,medium-risk,hosted VPS with mixed abuse history
+45.144.31.9,high-risk,vpn exit / credential stuffing overlap

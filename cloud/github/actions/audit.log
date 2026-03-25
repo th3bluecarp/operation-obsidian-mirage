@@ -1,0 +1,2 @@
+2026-02-13T10:34:01Z workflow=release-metrics job=oidc-sync actor=svc-build secret=AWS_ROLE_ARN action=read
+2026-02-13T10:34:03Z workflow=release-metrics job=oidc-sync actor=svc-build secret=KUBE_PROD_TOKEN action=read
