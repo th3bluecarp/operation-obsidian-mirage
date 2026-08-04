@@ -1,0 +1,3 @@
+UtcTime,EventID,Image,CommandLine,User,TargetFilename
+2026-02-14 02:14:15,11,C:\ProgramData\silvernote.exe,"silvernote.exe /encrypt d:\shares",NT AUTHORITY\SYSTEM,D:\Shares\Finance\READ_ME_RESTORE.txt
+2026-02-14 02:14:16,23,C:\ProgramData\silvernote.exe,delete shadow copies,NT AUTHORITY\SYSTEM,D:\$Extend\$RmMetadata\shadowcopy

