@@ -1,4 +1,0 @@
-UtcTime,EventID,Image,CommandLine,User,DestinationIp,DestinationHostname
-2026-02-14 02:14:13,1,C:\ProgramData\silvernote.exe,"silvernote.exe /encrypt c:\users",NT AUTHORITY\SYSTEM,,
-2026-02-14 02:14:14,11,C:\ProgramData\silvernote.exe,C:\Users\Public\READ_ME_RESTORE.txt,NT AUTHORITY\SYSTEM,,
-2026-02-13 12:55:19,3,C:\Program Files\Toolbar\updater.exe,"updater.exe",OBSIDIAN\asoto,198.51.100.99,ssl-certificate-checkup.com

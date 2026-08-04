@@ -1,4 +1,0 @@
-UtcTime,EventID,Provider,Computer,User,Message
-2026-02-13 10:03:15,4624,Microsoft-Windows-Security-Auditing,SEC-ADMIN01,OBSIDIAN\npatel,An account was successfully logged on. Logon Type:10 Source Network Address:10.20.4.23
-2026-02-13 10:04:51,4688,Microsoft-Windows-Security-Auditing,SEC-ADMIN01,OBSIDIAN\npatel,New Process Name:C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe Command Line:powershell.exe -ep bypass -File C:\ProgramData\cert.ps1
-2026-02-13 10:05:00,5007,Defender,SEC-ADMIN01,SYSTEM,Settings tamper suspected around ADFS key path
